@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![POSTMAN](postman.jpg)
+![POSTMAN](https://github.com/BrunoE2001/Web-Service-Mascotas/blob/main/postman.png)
 
   </div>
 
